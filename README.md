@@ -13,7 +13,7 @@ Cybersecurity professional with hands-on corporate experience at the Legislative
 
 Proven expertise in defensive web development, vulnerability analysis, and OWASP Top 10 mitigation (Cross-Site Scripting, Session Fixation, Broken Access Control).
 
-- 🛡️ **Current Focus:** Application Security, PHP Secure Coding, Phishing Prevention.
+- 🛡️ **Current Focus:** Application Security, PHP Secure Coding, Python for Security & Phishing Prevention.
 - 🎓 **Education:** Bachelor's Degree in Information Security (2024 - 2027).
 - 🌐 **Languages:** Portuguese (Native), English (Advanced/Technical), Spanish (Intermediate LatAm).
 
@@ -21,6 +21,7 @@ Proven expertise in defensive web development, vulnerability analysis, and OWASP
 
 ### 🛠️ Technologies & Security Stack I Use Daily
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,8 +29,6 @@ Proven expertise in defensive web development, vulnerability analysis, and OWASP
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
