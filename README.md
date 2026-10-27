@@ -1,90 +1,55 @@
-EDERSON MATHEUS DOS SANTOS ALFONSO
-Goiânia, GO – Brasil (Aberto a Trabalho Remoto / Relocação)
-Contato: (62) 92003-8598 | ederson.alfonso@icloud.com
-LinkedIn: linkedin.com/in/mattheusalfonso | GitHub: github.com/MattheusAlfonso
+# Hey! I'm Matheus Alfonso 👋
 
-OBJETIVO PROFISSIONAL
-Analista de Cibersegurança / Cyber Threat & Application Security Analyst
+🛡️ **Cybersecurity Analyst | Application Security & Threat Prevention**
+🏢 Currently at **ALEGO** (Legislative Assembly of Goiás)
+🎓 B.S. in Information Security (*Expected Graduation: 2027*)
+🌍 Open to International & Remote Opportunities (USD / LatAm: Chile 🇨🇱 & Argentina 🇦🇷)
 
-PERFIL PROFISSIONAL
-Profissional de Segurança da Informação com experiência prática corporativa na Assembleia Legislativa de Goiás (ALEGO), focado na camada preventiva, higiene digital e mitigação de ameaças de Engenharia Social (Phishing). Experiência sólida em desenvolvimento web defensivo em PHP e HTML5, análise preventiva de vulnerabilidades e implementação de mitigação para OWASP Top 10 (Cross-Site Scripting, Session Fixation, Broken Access Control). Cursando Bacharelado em Segurança da Informação (previsão 2027), focado em atuação internacional (LatAm e vagas remotas em USD) e proficiência em documentação e código multilíngue (Inglês avançado/técnico e Espanhol intermediário).
+---
 
-HABILIDADES TÉCNICAS (KEYWORDS ATS)
-- Segurança da Informação & Ameaças: Phishing Analysis, Social Engineering Awareness, Digital Hygiene, Threat Mitigation, Incident Prevention, OWASP Top 10, XSS Mitigation, Broken Access Control Defense.
-- Desenvolvimento Defensivo & Web: PHP (Secure Coding, password_hash, htmlspecialchars, Session Management, Input Sanitization), HTML5, CSS3, Regex Parsing.
-- Sistemas & Infraestrutura: Linux (Administração LAMP/Apache, Bash), Windows Server, Networking Fundamentals, Form Validation.
-- Ferramentas & Metodologias: Git & GitHub (Multilingual Documentation), Obsidian (Knowledge Base), VS Code, Sublime Text, XAMPP.
+### 🧠 About Me
 
-EXPERIÊNCIA PROFISSIONAL
-Assembleia Legislativa de Goiás (ALEGO) – Gabinete Parlamentar
-Analista de Tecnologia e Cibersegurança Preventiva | 01/2024 – Atual
-- Atuação na linha de frente preventiva de cibersegurança, orientando equipes sobre higiene digital, uso seguro de sistemas corporativos e prevenção contra ataques de engenharia social.
-- Realização de triagem, análise preventiva e identificação de tentativas de Phishing e e-mails suspeitos direcionados ao gabinete.
-- Disseminação de boas práticas de segurança da informação, protegendo a integridade de dados e a imagem institucional.
+Cybersecurity professional with hands-on corporate experience at the Legislative Assembly of Goiás (ALEGO), focusing on threat prevention, digital hygiene, and Social Engineering (Phishing) mitigation. 
 
-PROJETOS DESTACADOS EM CIBERSEGURANÇA (GITHUB)
-1. Secure Authentication & Session Management System (PHP / HTML5)
-   Desenvolvimento Defensivo e Controle de Acesso
-   - Implementou sistema de autenticação resiliente utilizando algoritmo de hash seguro (password_hash com bcrypt/Argon2id) e validação estrita via password_verify().
-   - Mitigou vulnerabilidade de Session Fixation aplicando renovação dinâmica de ID de sessão (session_regenerate_id(true)) e destruição total de cookies no encerramento (logout.php).
-   - Bloqueou falhas de Broken Access Control (OWASP A01) garantindo proteção do painel restrito contra navegação direta via URL.
+Proven expertise in defensive web development, vulnerability analysis, and OWASP Top 10 mitigation (Cross-Site Scripting, Session Fixation, Broken Access Control).
 
-2. Secure Input Validation & Sanitization Engine (PHP / HTML5)
-   Prevenção de Injeção de Scripts (XSS)
-   - Construiu mecanismo de sanitização e validação backend para prevenção de Cross-Site Scripting (Reflected/Stored XSS) utilizando htmlspecialchars() com codificação UTF-8 e ENT_QUOTES.
-   - Aplicou validação RFC de e-mails via filter_var(FILTER_VALIDATE_EMAIL) e imposição do método POST para evitar vazamentos em logs de servidor HTTP.
+- 🛡️ **Current Focus:** Application Security, PHP Secure Coding, Phishing Prevention.
+- 🎓 **Education:** Bachelor's Degree in Information Security (2024 - 2027).
+- 🌐 **Languages:** Portuguese (Native), English (Advanced/Technical), Spanish (Intermediate LatAm).
 
-FORMAÇÃO ACADÊMICA
-Bacharelado em Segurança da Informação 
-Previsão de Conclusão: 12/2027
+---
 
-IDIOMAS
-- Português: Nativo
-- Inglês: Leitura e Escrita Técnica Avançada / Conversação Profissional
-- Espanhol: Intermediário (Foco em atuação no mercado LatAm / Chile / Argentina)
+### 🛠️ Technologies & Security Stack I Use Daily
 
-================================================================================
-ENGLISH VERSION (FOR INTERNATIONAL & REMOTE ATS)
-================================================================================
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-EDERSON MATHEUS DOS SANTOS ALFONSO
-Goiânia, GO – Brazil (Open to Remote Work / Relocation)
-Contact: +55 (62) 92003-8598 | ederson.alfonso@icloud.com
-LinkedIn: linkedin.com/in/mattheusalfonso | GitHub: github.com/MattheusAlfonso
+---
 
-PROFESSIONAL SUMMARY
-Cybersecurity Professional with hands-on corporate experience at the Legislative Assembly of Goiás (ALEGO), focusing on threat prevention, digital hygiene, and Social Engineering (Phishing) mitigation. Proven expertise in defensive web development using PHP/HTML5, vulnerability analysis, and OWASP Top 10 mitigation (Cross-Site Scripting, Session Fixation, Broken Access Control). Currently pursuing a Bachelor's Degree in Information Security (Graduation 2027), targeted at international roles (LatAm and USD remote opportunities) with strong multilingual technical documentation capabilities (Fluent/Technical English, Intermediate Spanish).
+### 🚀 Featured Cybersecurity Projects
 
-TECHNICAL SKILLS (ATS KEYWORDS)
-- Cybersecurity & Threat Analysis: Phishing Analysis, Social Engineering Awareness, Digital Hygiene, Threat Mitigation, Incident Prevention, OWASP Top 10, XSS Mitigation, Broken Access Control.
-- Defensive Software Development: PHP (Secure Coding, password_hash, htmlspecialchars, Session Management, Input Sanitization), HTML5, CSS3, Regex.
-- Systems & Infrastructure: Linux (LAMP/Apache Administration, Bash), Windows Server, Networking Fundamentals, Form Validation.
-- Tools & Technologies: Git & GitHub (Multilingual Documentation), Obsidian (Knowledge Base), VS Code, Sublime Text, XAMPP.
+#### 🔒 [02-secure-auth-system](https://github.com/MattheusAlfonso/secure-auth-system)
+*Defensive Development & Access Control (PHP / HTML5)*
+- Engineered a resilient authentication workflow leveraging secure password hashing (`password_hash()` with `bcrypt`/`Argon2id`).
+- Mitigated **Session Fixation** attacks by implementing dynamic session ID renewal (`session_regenerate_id(true)`).
+- Prevented **Broken Access Control** vulnerabilities (OWASP A01) on restricted endpoints.
 
-WORK EXPERIENCE
-Legislative Assembly of Goiás (ALEGO)
-Technology & Preventive Cybersecurity Analyst | 01/2024 – Present
-- Operates on the front line of preventive cybersecurity, guiding staff and parliamentary teams on digital hygiene, secure system usage, and social engineering attack prevention.
-- Conducts triage and threat analysis on incoming suspicious emails and phishing attempts targeted at institutional infrastructure.
-- Establishes and promotes information security best practices to safeguard organizational data integrity and reputation.
+#### 🛡️ [01-input-validation-security](https://github.com/MattheusAlfonso/01-input-validation-security)
+*Script Injection Prevention - XSS (PHP / HTML5)*
+- Built a server-side sanitization engine to neutralize Reflected/Stored XSS attacks using `htmlspecialchars()` with UTF-8 flags.
+- Enforced RFC email validation via `filter_var(FILTER_VALIDATE_EMAIL)` and mandatory POST request handling.
 
-FEATURED CYBERSECURITY PROJECTS (GITHUB)
-1. Secure Authentication & Session Management System (PHP / HTML5)
-   Defensive Development & Access Control
-   - Engineered a resilient authentication workflow leveraging secure password hashing (password_hash with bcrypt/Argon2id) and verification (password_verify).
-   - Mitigated Session Fixation attacks by implementing dynamic session ID renewal (session_regenerate_id(true)) and comprehensive session cookie destruction upon logout.
-   - Prevented Broken Access Control vulnerabilities (OWASP A01) by enforcing strict server-side session checks on restricted endpoints.
+---
 
-2. Secure Input Validation & Sanitization Engine (PHP / HTML5)
-   Script Injection Prevention (XSS)
-   - Built a server-side sanitization engine to neutralize Reflected/Stored XSS attacks using htmlspecialchars() with UTF-8 and ENT_QUOTES flags.
-   - Enforced RFC email validation via filter_var(FILTER_VALIDATE_EMAIL) and mandatory POST request handling to eliminate URL/log data leakage.
+### 📫 Contact & Connect With Me
 
-EDUCATION
-Bachelor’s Degree in Information Security
-Expected Graduation: 12/2027
-
-LANGUAGES
-- Portuguese: Native
-- English: Advanced Technical Reading & Writing / Professional Speaking
-- Spanish: Intermediate (Targeted at LatAm / Chile / Argentina market)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattheusalfonso)
+[![Email](https://img.shields.io/badge/Email-ederson.alfonso%40icloud.com-D14836?style=for-the-badge&logo=icloud&logoColor=white)](mailto:ederson.alfonso@icloud.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MattheusAlfonso-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MattheusAlfonso)
