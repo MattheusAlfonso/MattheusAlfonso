@@ -13,7 +13,7 @@ Cybersecurity professional with hands-on corporate experience at the Legislative
 
 Proven expertise in defensive web development, vulnerability analysis, and OWASP Top 10 mitigation (Cross-Site Scripting, Session Fixation, Broken Access Control).
 
-- 🛡️ **Current Focus:** Application Security, PHP Secure Coding, Python for Security & Phishing Prevention.
+- 🛡️ **Current Focus:** Application Security, PHP Secure Coding, Phishing Prevention.
 - 🎓 **Education:** Bachelor's Degree in Information Security (2024 - 2027).
 - 🌐 **Languages:** Portuguese (Native), English (Advanced/Technical), Spanish (Intermediate LatAm).
 
