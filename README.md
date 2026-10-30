@@ -3,7 +3,7 @@
 🛡️ **Cybersecurity Analyst | Application Security & Threat Prevention**
 🏢 Currently at **ALEGO** (Legislative Assembly of Goiás)
 🎓 B.S. in Information Security (*Expected Graduation: 2027*)
-🌍 Open to International & Remote Opportunities (USD / LatAm: Chile 🇨🇱 & Argentina 🇦🇷)
+🌍 Open to Remote & Relocation Opportunities in LatAm: Chile 🇨🇱 · Colombia 🇨🇴 · Mexico 🇲🇽 · Uruguay 🇺🇾 · Argentina 🇦🇷 (USD)
 
 ---
 
@@ -11,7 +11,7 @@
 
 Cybersecurity professional with hands-on corporate experience at the Legislative Assembly of Goiás (ALEGO), focusing on threat prevention, digital hygiene, and Social Engineering (Phishing) mitigation. 
 
-Proven expertise in defensive web development, vulnerability analysis, and OWASP Top 10 mitigation (Cross-Site Scripting, Session Fixation, Broken Access Control).
+Building hands-on Application Security skills through open-source projects: defensive web development and OWASP Top 10 mitigations (XSS, CSRF, Session Fixation, Broken Access Control, brute force) and phishing triage tooling.
 
 - 🛡️ **Current Focus:** Application Security, PHP Secure Coding, Phishing Prevention.
 - 🎓 **Education:** Bachelor's Degree in Information Security (2024 - 2027).
@@ -36,13 +36,21 @@ Proven expertise in defensive web development, vulnerability analysis, and OWASP
 
 #### 🔒 [02-secure-auth-system](https://github.com/MattheusAlfonso/secure-auth-system)
 *Defensive Development & Access Control (PHP / HTML5)*
-- Engineered a resilient authentication workflow leveraging secure password hashing (`password_hash()` with `bcrypt`/`Argon2id`).
+- Engineered a resilient authentication workflow leveraging secure password hashing (bcrypt via `password_hash()` / `password_verify()`).
 - Mitigated **Session Fixation** attacks by implementing dynamic session ID renewal (`session_regenerate_id(true)`).
 - Prevented **Broken Access Control** vulnerabilities (OWASP A01) on restricted endpoints.
+- Added brute-force lockout, CSRF tokens, hardened session cookies and security headers.
+
+#### 📧 [email-header-analyzer](https://github.com/MattheusAlfonso/email-header-analyzer)
+*Phishing Triage & Email Security (PHP)*
+- Parses raw e-mail headers and extracts sender IoCs (From, Return-Path, Reply-To, origin IP).
+- Reads SPF / DKIM / DMARC from the trusted `Authentication-Results` header and checks domain alignment.
+- Explainable 0–100 risk score, flagging BEC tactics such as diverted `Reply-To`.
 
 #### 🛡️ [01-input-validation-security](https://github.com/MattheusAlfonso/01-input-validation-security)
 *Script Injection Prevention - XSS (PHP / HTML5)*
-- Built a server-side sanitization engine to neutralize Reflected/Stored XSS attacks using `htmlspecialchars()` with UTF-8 flags.
+- Applies allowlist input validation and context-aware output encoding to neutralize XSS.
+- Blocks `javascript:` URLs, enforces CSRF tokens and a strict Content-Security-Policy.
 - Enforced RFC email validation via `filter_var(FILTER_VALIDATE_EMAIL)` and mandatory POST request handling.
 
 ---
