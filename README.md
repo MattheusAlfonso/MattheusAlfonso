@@ -14,6 +14,7 @@ Cybersecurity professional with hands-on corporate experience at the Legislative
 Building hands-on Application Security skills through open-source projects: defensive web development and OWASP Top 10 mitigations (XSS, CSRF, Session Fixation, Broken Access Control, brute force) and phishing triage tooling.
 
 - 🛡️ **Current Focus:** Application Security, PHP Secure Coding, Phishing Prevention.
+- 🤖 **AI-Assisted Development:** I work with **Claude Code** for security code review, testing and documentation, and I understand and validate every change it suggests.
 - 🎓 **Education:** Bachelor's Degree in Information Security (2024 - 2027).
 - 🌐 **Languages:** Portuguese (Native), English (Advanced/Technical), Spanish (Intermediate LatAm).
 
@@ -29,6 +30,7 @@ Building hands-on Application Security skills through open-source projects: defe
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
 ---
 
