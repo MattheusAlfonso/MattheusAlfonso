@@ -2,7 +2,7 @@
 
 🛡️ **Cybersecurity Analyst | Application Security & Threat Prevention**
 🏢 Currently at **ALEGO** (Legislative Assembly of Goiás)
-🎓 B.S. in Information Security (*Expected Graduation: 2027*)
+🎓 Studying Information Security (*Expected Graduation: 2027*)
 🌍 Open to Remote & Relocation Opportunities in LatAm: Chile 🇨🇱 · Colombia 🇨🇴 · Mexico 🇲🇽 · Uruguay 🇺🇾 · Argentina 🇦🇷 (USD)
 
 ---
@@ -15,7 +15,7 @@ Building hands-on Application Security skills through open-source projects: defe
 
 - 🛡️ **Current Focus:** Application Security, PHP Secure Coding, Phishing Prevention.
 - 🤖 **AI-Assisted Development:** I work with **Claude Code** for security code review, testing and documentation, and I understand and validate every change it suggests.
-- 🎓 **Education:** Bachelor's Degree in Information Security (2024 - 2027).
+- 🎓 **Education:** Information Security, in progress (2024 - 2027).
 - 🌐 **Languages:** Portuguese (Native), English (Advanced/Technical), Spanish (Intermediate LatAm).
 
 ---
